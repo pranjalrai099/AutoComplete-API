@@ -12,6 +12,8 @@ Features
 4. Search count & result count tracking
 
 5. Responsive UI with a modern design
+   
+7. Rate limit of 1000ms
 
 Search Page (For all versions)
 
