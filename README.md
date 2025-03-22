@@ -50,13 +50,16 @@ root/
 
 │   │── App.jsx  # Main application file with routing to each component
 
-"Clone this repository into your VS Code. Navigate to the client folder, then run the following commands:
-npm install 
-npm run dev. 
-The application should work fine."
-
 │── public/
 
 │── package.json
 
 │── README.md
+
+"Clone this repository into your VS Code. Navigate to the client folder, then run the following commands:
+
+npm install 
+
+npm run dev. 
+
+The application should work fine."
